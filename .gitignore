@@ -1,0 +1,43 @@
+# .gitignore para proyecto Python
+
+# 1) Entorno virtual
+venv/
+.env/                     # si usas otros entornos virtuales
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 2) Archivos de configuración de IDE/editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 3) Data y resultados que no quieres versionar
+data/output/
+data/raw/
+download_log.json       # si es un log que se genera automáticamente
+*.sqlite               # bases de datos locales temporales
+*.db
+
+# 4) Archivos de caché, logs y runtime
+*.log
+*.pot
+*.mo
+*.cache/
+*.prof
+
+# 5) Sistemas de paquetes
+*.egg-info/
+dist/
+build/
+
+# 6) Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# 7) Jupyter Notebooks (si no quieres versionarlos)
+*.ipynb_checkpoints
+
+# 8) Fuerza que no se suba el entorno de Python
+pip-selfcheck.json
