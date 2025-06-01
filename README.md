@@ -1,4 +1,3 @@
-````markdown
 # ProyectoAnaliticaDatos
 
 Este repositorio contiene un pipeline en Python para extraer y procesar datos de programas de posgrado en universidades. A continuación encontrarás las instrucciones para clonar el proyecto, configurar el entorno, instalar dependencias y ejecutar las tareas de descarga y extracción.
@@ -12,7 +11,6 @@ Abre tu terminal (PowerShell, Git Bash o Mac OS) y ejecuta:
 ```bash
 git clone https://github.com/SantiagoRS26/Analisis-Datos.git
 cd ProyectoAnaliticaDatos
-````
 
 ---
 
