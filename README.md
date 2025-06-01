@@ -11,6 +11,7 @@ Abre tu terminal (PowerShell, Git Bash o Mac OS) y ejecuta:
 ```bash
 git clone https://github.com/SantiagoRS26/Analisis-Datos.git
 cd ProyectoAnaliticaDatos
+```
 
 ---
 
