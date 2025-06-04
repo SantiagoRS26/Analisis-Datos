@@ -41,3 +41,5 @@ Thumbs.db
 
 # 8) Fuerza que no se suba el entorno de Python
 pip-selfcheck.json
+
+.env
