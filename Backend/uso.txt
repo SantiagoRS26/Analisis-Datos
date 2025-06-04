@@ -1,5 +1,5 @@
 # Descarga con uso de caché
-python -m src.main download
+python -m src.main2 download
 
 # Si quieres forzar la re-descarga de TODO, añade --force
 python -m src.main download --force
@@ -7,4 +7,4 @@ python -m src.main download --force
 
 python -m src.main extract
 
-python -m src.main analyze
+python -m src.main2 analyze

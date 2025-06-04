@@ -16,7 +16,7 @@ import openpyxl
 
 def construir_csv_desde_xlsx(xlsx_path: str, csv_path: str = "Universidades3.csv") -> pd.DataFrame:
     wb = openpyxl.load_workbook(xlsx_path, data_only=True)
-    hojas = ["Hoja 1", "Ruben"]
+    hojas = ["Colombia"]
 
     # {(universidad, carrera): set(enlaces)}
     bolsa: dict[tuple[str, str], set[str]] = {}
