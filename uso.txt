@@ -6,3 +6,5 @@ python -m src.main download --force
 
 
 python -m src.main extract
+
+python -m src.main analyze

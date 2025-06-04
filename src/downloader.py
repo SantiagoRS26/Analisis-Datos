@@ -11,8 +11,8 @@ from typing import TypedDict, Literal
 import requests
 from requests.adapters import HTTPAdapter, Retry
 
-from .utils import slugify                # ⇦ nuevo
-from .cleaner import clean_html           # ⇦ nuevo
+from .utils import slugify
+from .cleaner import clean_html
 
 RAW_DIR = pathlib.Path("data/raw")
 RAW_DIR_HTML = RAW_DIR / "html"
