@@ -1,0 +1,20 @@
+[
+  {
+    "region": "World",
+    "min": 0,
+    "q1": 15,
+    "median": 35,
+    "q3": 80,
+    "max": 200,
+    "outliers": [180, 200]
+  },
+  {
+    "region": "Colombia",
+    "min": 0,
+    "q1": 3,
+    "median": 5,
+    "q3": 15,
+    "max": 48,
+    "outliers": [48]
+  }
+]

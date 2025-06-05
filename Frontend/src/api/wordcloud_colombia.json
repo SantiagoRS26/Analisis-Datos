@@ -1,0 +1,1698 @@
+[
+  {
+    "text": "project",
+    "value": 79
+  },
+  {
+    "text": "management",
+    "value": 74
+  },
+  {
+    "text": "architects",
+    "value": 15
+  },
+  {
+    "text": "effective",
+    "value": 5
+  },
+  {
+    "text": "communication",
+    "value": 5
+  },
+  {
+    "text": "business",
+    "value": 50
+  },
+  {
+    "text": "architecture",
+    "value": 79
+  },
+  {
+    "text": "strategy",
+    "value": 13
+  },
+  {
+    "text": "fundamentals",
+    "value": 20
+  },
+  {
+    "text": "software",
+    "value": 51
+  },
+  {
+    "text": "architectures",
+    "value": 24
+  },
+  {
+    "text": "new",
+    "value": 16
+  },
+  {
+    "text": "technologies",
+    "value": 11
+  },
+  {
+    "text": "solution",
+    "value": 11
+  },
+  {
+    "text": "information",
+    "value": 46
+  },
+  {
+    "text": "infrastructure",
+    "value": 13
+  },
+  {
+    "text": "security",
+    "value": 35
+  },
+  {
+    "text": "process",
+    "value": 10
+  },
+  {
+    "text": "architecting",
+    "value": 12
+  },
+  {
+    "text": "cloud",
+    "value": 28
+  },
+  {
+    "text": "generation",
+    "value": 16
+  },
+  {
+    "text": "digital",
+    "value": 34
+  },
+  {
+    "text": "transformation",
+    "value": 9
+  },
+  {
+    "text": "integration",
+    "value": 10
+  },
+  {
+    "text": "enterprises",
+    "value": 6
+  },
+  {
+    "text": "frameworks",
+    "value": 6
+  },
+  {
+    "text": "languages",
+    "value": 6
+  },
+  {
+    "text": "big",
+    "value": 17
+  },
+  {
+    "text": "data",
+    "value": 80
+  },
+  {
+    "text": "technical",
+    "value": 6
+  },
+  {
+    "text": "debt",
+    "value": 6
+  },
+  {
+    "text": "elective",
+    "value": 19
+  },
+  {
+    "text": "another",
+    "value": 8
+  },
+  {
+    "text": "system",
+    "value": 4
+  },
+  {
+    "text": "systems",
+    "value": 51
+  },
+  {
+    "text": "computing",
+    "value": 34
+  },
+  {
+    "text": "mastery",
+    "value": 4
+  },
+  {
+    "text": "final",
+    "value": 23
+  },
+  {
+    "text": "power",
+    "value": 5
+  },
+  {
+    "text": "people",
+    "value": 6
+  },
+  {
+    "text": "estimation",
+    "value": 5
+  },
+  {
+    "text": "enterprise",
+    "value": 5
+  },
+  {
+    "text": "modeling",
+    "value": 19
+  },
+  {
+    "text": "intelligent",
+    "value": 10
+  },
+  {
+    "text": "milestone",
+    "value": 5
+  },
+  {
+    "text": "driven",
+    "value": 5
+  },
+  {
+    "text": "agile",
+    "value": 17
+  },
+  {
+    "text": "execution",
+    "value": 6
+  },
+  {
+    "text": "thesis",
+    "value": 55
+  },
+  {
+    "text": "bioinformatics",
+    "value": 12
+  },
+  {
+    "text": "programming",
+    "value": 33
+  },
+  {
+    "text": "biological",
+    "value": 12
+  },
+  {
+    "text": "sciences",
+    "value": 9
+  },
+  {
+    "text": "molecular",
+    "value": 8
+  },
+  {
+    "text": "biology",
+    "value": 22
+  },
+  {
+    "text": "special",
+    "value": 4
+  },
+  {
+    "text": "computational",
+    "value": 14
+  },
+  {
+    "text": "tutorial",
+    "value": 5
+  },
+  {
+    "text": "algorithms",
+    "value": 14
+  },
+  {
+    "text": "applied",
+    "value": 13
+  },
+  {
+    "text": "biodiversity",
+    "value": 8
+  },
+  {
+    "text": "studies",
+    "value": 4
+  },
+  {
+    "text": "metabolic",
+    "value": 8
+  },
+  {
+    "text": "networks",
+    "value": 24
+  },
+  {
+    "text": "application",
+    "value": 17
+  },
+  {
+    "text": "industry",
+    "value": 5
+  },
+  {
+    "text": "population",
+    "value": 4
+  },
+  {
+    "text": "genomic",
+    "value": 4
+  },
+  {
+    "text": "analysis",
+    "value": 60
+  },
+  {
+    "text": "phylogenomic",
+    "value": 4
+  },
+  {
+    "text": "microbial",
+    "value": 4
+  },
+  {
+    "text": "ecology",
+    "value": 4
+  },
+  {
+    "text": "bioinformatic",
+    "value": 4
+  },
+  {
+    "text": "tools",
+    "value": 17
+  },
+  {
+    "text": "high",
+    "value": 4
+  },
+  {
+    "text": "performance",
+    "value": 4
+  },
+  {
+    "text": "statistics",
+    "value": 8
+  },
+  {
+    "text": "ebi",
+    "value": 4
+  },
+  {
+    "text": "search",
+    "value": 4
+  },
+  {
+    "text": "computer",
+    "value": 9
+  },
+  {
+    "text": "engineering",
+    "value": 41
+  },
+  {
+    "text": "discovering",
+    "value": 4
+  },
+  {
+    "text": "based",
+    "value": 7
+  },
+  {
+    "text": "approaches",
+    "value": 4
+  },
+  {
+    "text": "semiannual",
+    "value": 4
+  },
+  {
+    "text": "internship",
+    "value": 4
+  },
+  {
+    "text": "interseastal",
+    "value": 4
+  },
+  {
+    "text": "insanty",
+    "value": 4
+  },
+  {
+    "text": "tesis",
+    "value": 26
+  },
+  {
+    "text": "advanced",
+    "value": 8
+  },
+  {
+    "text": "multidisciplinary",
+    "value": 4
+  },
+  {
+    "text": "design",
+    "value": 31
+  },
+  {
+    "text": "apo",
+    "value": 4
+  },
+  {
+    "text": "algorithmic",
+    "value": 9
+  },
+  {
+    "text": "appo",
+    "value": 4
+  },
+  {
+    "text": "algoritmic",
+    "value": 4
+  },
+  {
+    "text": "cupi",
+    "value": 4
+  },
+  {
+    "text": "bats",
+    "value": 4
+  },
+  {
+    "text": "organizations",
+    "value": 10
+  },
+  {
+    "text": "monitory",
+    "value": 4
+  },
+  {
+    "text": "functional",
+    "value": 6
+  },
+  {
+    "text": "agents",
+    "value": 5
+  },
+  {
+    "text": "formal",
+    "value": 5
+  },
+  {
+    "text": "methods",
+    "value": 8
+  },
+  {
+    "text": "artificial",
+    "value": 12
+  },
+  {
+    "text": "intelligence",
+    "value": 14
+  },
+  {
+    "text": "knowledge",
+    "value": 29
+  },
+  {
+    "text": "representation",
+    "value": 7
+  },
+  {
+    "text": "paradigms",
+    "value": 5
+  },
+  {
+    "text": "concurrence",
+    "value": 5
+  },
+  {
+    "text": "distribution",
+    "value": 5
+  },
+  {
+    "text": "machine",
+    "value": 27
+  },
+  {
+    "text": "learning",
+    "value": 49
+  },
+  {
+    "text": "techniques",
+    "value": 6
+  },
+  {
+    "text": "verification",
+    "value": 5
+  },
+  {
+    "text": "natural",
+    "value": 6
+  },
+  {
+    "text": "language",
+    "value": 5
+  },
+  {
+    "text": "processing",
+    "value": 5
+  },
+  {
+    "text": "reinforcement",
+    "value": 5
+  },
+  {
+    "text": "internet",
+    "value": 6
+  },
+  {
+    "text": "things",
+    "value": 6
+  },
+  {
+    "text": "modern",
+    "value": 13
+  },
+  {
+    "text": "topics",
+    "value": 5
+  },
+  {
+    "text": "cryptography",
+    "value": 19
+  },
+  {
+    "text": "ai",
+    "value": 3
+  },
+  {
+    "text": "quantum",
+    "value": 7
+  },
+  {
+    "text": "intro",
+    "value": 2
+  },
+  {
+    "text": "technological",
+    "value": 6
+  },
+  {
+    "text": "trends",
+    "value": 6
+  },
+  {
+    "text": "support",
+    "value": 9
+  },
+  {
+    "text": "next",
+    "value": 10
+  },
+  {
+    "text": "mobile",
+    "value": 12
+  },
+  {
+    "text": "services",
+    "value": 13
+  },
+  {
+    "text": "lan",
+    "value": 5
+  },
+  {
+    "text": "wan",
+    "value": 5
+  },
+  {
+    "text": "communications",
+    "value": 5
+  },
+  {
+    "text": "solutions",
+    "value": 16
+  },
+  {
+    "text": "development",
+    "value": 37
+  },
+  {
+    "text": "foundations",
+    "value": 5
+  },
+  {
+    "text": "programing",
+    "value": 4
+  },
+  {
+    "text": "distributed",
+    "value": 4
+  },
+  {
+    "text": "privacy",
+    "value": 2
+  },
+  {
+    "text": "iiot",
+    "value": 3
+  },
+  {
+    "text": "iot",
+    "value": 8
+  },
+  {
+    "text": "semantic",
+    "value": 12
+  },
+  {
+    "text": "web",
+    "value": 5
+  },
+  {
+    "text": "discovery",
+    "value": 10
+  },
+  {
+    "text": "social",
+    "value": 10
+  },
+  {
+    "text": "model",
+    "value": 4
+  },
+  {
+    "text": "mixed",
+    "value": 6
+  },
+  {
+    "text": "reality",
+    "value": 5
+  },
+  {
+    "text": "applications",
+    "value": 29
+  },
+  {
+    "text": "video",
+    "value": 9
+  },
+  {
+    "text": "game",
+    "value": 8
+  },
+  {
+    "text": "interactive",
+    "value": 13
+  },
+  {
+    "text": "environments",
+    "value": 9
+  },
+  {
+    "text": "visual",
+    "value": 15
+  },
+  {
+    "text": "analytics",
+    "value": 19
+  },
+  {
+    "text": "images",
+    "value": 6
+  },
+  {
+    "text": "vision",
+    "value": 6
+  },
+  {
+    "text": "robotics",
+    "value": 6
+  },
+  {
+    "text": "autonomous",
+    "value": 5
+  },
+  {
+    "text": "scientific",
+    "value": 4
+  },
+  {
+    "text": "visualization",
+    "value": 4
+  },
+  {
+    "text": "skills",
+    "value": 9
+  },
+  {
+    "text": "section",
+    "value": 16
+  },
+  {
+    "text": "strategic",
+    "value": 4
+  },
+  {
+    "text": "finance",
+    "value": 4
+  },
+  {
+    "text": "marketing",
+    "value": 4
+  },
+  {
+    "text": "training",
+    "value": 8
+  },
+  {
+    "text": "entrepreneurship",
+    "value": 17
+  },
+  {
+    "text": "electronic",
+    "value": 9
+  },
+  {
+    "text": "commerce",
+    "value": 9
+  },
+  {
+    "text": "government",
+    "value": 8
+  },
+  {
+    "text": "offices",
+    "value": 4
+  },
+  {
+    "text": "pmo",
+    "value": 4
+  },
+  {
+    "text": "ti",
+    "value": 4
+  },
+  {
+    "text": "public",
+    "value": 6
+  },
+  {
+    "text": "sector",
+    "value": 6
+  },
+  {
+    "text": "ict",
+    "value": 6
+  },
+  {
+    "text": "collaborative",
+    "value": 5
+  },
+  {
+    "text": "bb",
+    "value": 4
+  },
+  {
+    "text": "human",
+    "value": 4
+  },
+  {
+    "text": "talent",
+    "value": 4
+  },
+  {
+    "text": "legal",
+    "value": 4
+  },
+  {
+    "text": "aspects",
+    "value": 4
+  },
+  {
+    "text": "customer",
+    "value": 4
+  },
+  {
+    "text": "experience",
+    "value": 9
+  },
+  {
+    "text": "change",
+    "value": 4
+  },
+  {
+    "text": "times",
+    "value": 4
+  },
+  {
+    "text": "disruption",
+    "value": 4
+  },
+  {
+    "text": "supply",
+    "value": 4
+  },
+  {
+    "text": "chain",
+    "value": 4
+  },
+  {
+    "text": "prods",
+    "value": 5
+  },
+  {
+    "text": "directing",
+    "value": 1
+  },
+  {
+    "text": "state",
+    "value": 2
+  },
+  {
+    "text": "society",
+    "value": 1
+  },
+  {
+    "text": "product",
+    "value": 4
+  },
+  {
+    "text": "degree",
+    "value": 8
+  },
+  {
+    "text": "approach",
+    "value": 8
+  },
+  {
+    "text": "science",
+    "value": 12
+  },
+  {
+    "text": "administration",
+    "value": 7
+  },
+  {
+    "text": "leadership",
+    "value": 6
+  },
+  {
+    "text": "recommendation",
+    "value": 7
+  },
+  {
+    "text": "activity",
+    "value": 6
+  },
+  {
+    "text": "recognition",
+    "value": 6
+  },
+  {
+    "text": "sequential",
+    "value": 6
+  },
+  {
+    "text": "sensor",
+    "value": 6
+  },
+  {
+    "text": "datasets",
+    "value": 6
+  },
+  {
+    "text": "centered",
+    "value": 6
+  },
+  {
+    "text": "automation",
+    "value": 12
+  },
+  {
+    "text": "orchestration",
+    "value": 6
+  },
+  {
+    "text": "leveling",
+    "value": 4
+  },
+  {
+    "text": "processes",
+    "value": 10
+  },
+  {
+    "text": "productivity",
+    "value": 5
+  },
+  {
+    "text": "improvement",
+    "value": 11
+  },
+  {
+    "text": "sw",
+    "value": 12
+  },
+  {
+    "text": "lin",
+    "value": 4
+  },
+  {
+    "text": "fabricios",
+    "value": 4
+  },
+  {
+    "text": "products",
+    "value": 4
+  },
+  {
+    "text": "user",
+    "value": 5
+  },
+  {
+    "text": "scala",
+    "value": 5
+  },
+  {
+    "text": "automatic",
+    "value": 11
+  },
+  {
+    "text": "tests",
+    "value": 6
+  },
+  {
+    "text": "integrative",
+    "value": 5
+  },
+  {
+    "text": "essential",
+    "value": 1
+  },
+  {
+    "text": "practices",
+    "value": 1
+  },
+  {
+    "text": "agility",
+    "value": 1
+  },
+  {
+    "text": "automated",
+    "value": 1
+  },
+  {
+    "text": "apps",
+    "value": 1
+  },
+  {
+    "text": "ux",
+    "value": 1
+  },
+  {
+    "text": "devops",
+    "value": 4
+  },
+  {
+    "text": "construction",
+    "value": 8
+  },
+  {
+    "text": "apis",
+    "value": 4
+  },
+  {
+    "text": "metrics",
+    "value": 4
+  },
+  {
+    "text": "analytitca",
+    "value": 4
+  },
+  {
+    "text": "non",
+    "value": 4
+  },
+  {
+    "text": "monilitic",
+    "value": 4
+  },
+  {
+    "text": "introduction",
+    "value": 8
+  },
+  {
+    "text": "thinking",
+    "value": 4
+  },
+  {
+    "text": "modernization",
+    "value": 4
+  },
+  {
+    "text": "cryptographic",
+    "value": 4
+  },
+  {
+    "text": "safe",
+    "value": 14
+  },
+  {
+    "text": "host",
+    "value": 8
+  },
+  {
+    "text": "network",
+    "value": 8
+  },
+  {
+    "text": "defense",
+    "value": 4
+  },
+  {
+    "text": "cybersecurity",
+    "value": 19
+  },
+  {
+    "text": "models",
+    "value": 9
+  },
+  {
+    "text": "standard",
+    "value": 4
+  },
+  {
+    "text": "csirts",
+    "value": 4
+  },
+  {
+    "text": "incident",
+    "value": 6
+  },
+  {
+    "text": "forensic",
+    "value": 7
+  },
+  {
+    "text": "offensive",
+    "value": 4
+  },
+  {
+    "text": "deciphering",
+    "value": 4
+  },
+  {
+    "text": "bitcoin",
+    "value": 4
+  },
+  {
+    "text": "arti",
+    "value": 4
+  },
+  {
+    "text": "deep",
+    "value": 8
+  },
+  {
+    "text": "mastering",
+    "value": 4
+  },
+  {
+    "text": "disc",
+    "value": 1
+  },
+  {
+    "text": "postgraduate",
+    "value": 1
+  },
+  {
+    "text": "school",
+    "value": 2
+  },
+  {
+    "text": "uniandes",
+    "value": 1
+  },
+  {
+    "text": "master",
+    "value": 21
+  },
+  {
+    "text": "decisionmaking",
+    "value": 2
+  },
+  {
+    "text": "highstakes",
+    "value": 2
+  },
+  {
+    "text": "problems",
+    "value": 2
+  },
+  {
+    "text": "mine",
+    "value": 4
+  },
+  {
+    "text": "theory",
+    "value": 2
+  },
+  {
+    "text": "practice",
+    "value": 1
+  },
+  {
+    "text": "location",
+    "value": 3
+  },
+  {
+    "text": "factories",
+    "value": 3
+  },
+  {
+    "text": "supported",
+    "value": 1
+  },
+  {
+    "text": "virtual",
+    "value": 2
+  },
+  {
+    "text": "communities",
+    "value": 1
+  },
+  {
+    "text": "confidentiality",
+    "value": 1
+  },
+  {
+    "text": "integrity",
+    "value": 1
+  },
+  {
+    "text": "mbc",
+    "value": 1
+  },
+  {
+    "text": "technology",
+    "value": 2
+  },
+  {
+    "text": "mbit",
+    "value": 1
+  },
+  {
+    "text": "messi",
+    "value": 1
+  },
+  {
+    "text": "misis",
+    "value": 1
+  },
+  {
+    "text": "miso",
+    "value": 1
+  },
+  {
+    "text": "line",
+    "value": 1
+  },
+  {
+    "text": "perfomance",
+    "value": 1
+  },
+  {
+    "text": "applicability",
+    "value": 1
+  },
+  {
+    "text": "advances",
+    "value": 1
+  },
+  {
+    "text": "embedded",
+    "value": 1
+  },
+  {
+    "text": "wireless",
+    "value": 1
+  },
+  {
+    "text": "summer",
+    "value": 1
+  },
+  {
+    "text": "international",
+    "value": 1
+  },
+  {
+    "text": "doctorate",
+    "value": 2
+  },
+  {
+    "text": "general",
+    "value": 5
+  },
+  {
+    "text": "know",
+    "value": 1
+  },
+  {
+    "text": "vacancies",
+    "value": 1
+  },
+  {
+    "text": "teachers",
+    "value": 4
+  },
+  {
+    "text": "administrative",
+    "value": 1
+  },
+  {
+    "text": "plant",
+    "value": 1
+  },
+  {
+    "text": "chair",
+    "value": 1
+  },
+  {
+    "text": "distinguished",
+    "value": 1
+  },
+  {
+    "text": "professionals",
+    "value": 1
+  },
+  {
+    "text": "instructors",
+    "value": 1
+  },
+  {
+    "text": "postdoctoral",
+    "value": 1
+  },
+  {
+    "text": "assistants",
+    "value": 1
+  },
+  {
+    "text": "attached",
+    "value": 1
+  },
+  {
+    "text": "coordinators",
+    "value": 2
+  },
+  {
+    "text": "program",
+    "value": 1
+  },
+  {
+    "text": "managers",
+    "value": 1
+  },
+  {
+    "text": "personnel",
+    "value": 1
+  },
+  {
+    "text": "laboratory",
+    "value": 6
+  },
+  {
+    "text": "staff",
+    "value": 1
+  },
+  {
+    "text": "students",
+    "value": 1
+  },
+  {
+    "text": "student",
+    "value": 1
+  },
+  {
+    "text": "representatives",
+    "value": 1
+  },
+  {
+    "text": "graduates",
+    "value": 1
+  },
+  {
+    "text": "labor",
+    "value": 1
+  },
+  {
+    "text": "offers",
+    "value": 1
+  },
+  {
+    "text": "empreners",
+    "value": 1
+  },
+  {
+    "text": "innovators",
+    "value": 1
+  },
+  {
+    "text": "investigation",
+    "value": 1
+  },
+  {
+    "text": "groups",
+    "value": 1
+  },
+  {
+    "text": "commit",
+    "value": 1
+  },
+  {
+    "text": "imagine",
+    "value": 1
+  },
+  {
+    "text": "ticsw",
+    "value": 1
+  },
+  {
+    "text": "presentation",
+    "value": 1
+  },
+  {
+    "text": "datacenter",
+    "value": 1
+  },
+  {
+    "text": "connectivity",
+    "value": 1
+  },
+  {
+    "text": "codex",
+    "value": 1
+  },
+  {
+    "text": "purpose",
+    "value": 1
+  },
+  {
+    "text": "laboratories",
+    "value": 2
+  },
+  {
+    "text": "games",
+    "value": 1
+  },
+  {
+    "text": "room",
+    "value": 1
+  },
+  {
+    "text": "biosafety",
+    "value": 1
+  },
+  {
+    "text": "protocol",
+    "value": 1
+  },
+  {
+    "text": "statistical",
+    "value": 8
+  },
+  {
+    "text": "emphasis",
+    "value": 4
+  },
+  {
+    "text": "iii",
+    "value": 2
+  },
+  {
+    "text": "iv",
+    "value": 1
+  },
+  {
+    "text": "masters",
+    "value": 2
+  },
+  {
+    "text": "problem",
+    "value": 2
+  },
+  {
+    "text": "solving",
+    "value": 2
+  },
+  {
+    "text": "creation",
+    "value": 1
+  },
+  {
+    "text": "seminar",
+    "value": 4
+  },
+  {
+    "text": "grade",
+    "value": 5
+  },
+  {
+    "text": "option",
+    "value": 2
+  },
+  {
+    "text": "geographic",
+    "value": 2
+  },
+  {
+    "text": "smart",
+    "value": 3
+  },
+  {
+    "text": "cities",
+    "value": 3
+  },
+  {
+    "text": "sustainable",
+    "value": 1
+  },
+  {
+    "text": "urban",
+    "value": 4
+  },
+  {
+    "text": "rectum",
+    "value": 1
+  },
+  {
+    "text": "methodologies",
+    "value": 1
+  },
+  {
+    "text": "solar",
+    "value": 1
+  },
+  {
+    "text": "energy",
+    "value": 16
+  },
+  {
+    "text": "wind",
+    "value": 1
+  },
+  {
+    "text": "display",
+    "value": 1
+  },
+  {
+    "text": "governance",
+    "value": 2
+  },
+  {
+    "text": "renewable",
+    "value": 1
+  },
+  {
+    "text": "electrical",
+    "value": 1
+  },
+  {
+    "text": "markets",
+    "value": 1
+  },
+  {
+    "text": "risk",
+    "value": 1
+  },
+  {
+    "text": "decision",
+    "value": 2
+  },
+  {
+    "text": "making",
+    "value": 2
+  },
+  {
+    "text": "reinforced",
+    "value": 2
+  },
+  {
+    "text": "cyber",
+    "value": 4
+  },
+  {
+    "text": "cyberinteligence",
+    "value": 2
+  },
+  {
+    "text": "threat",
+    "value": 2
+  },
+  {
+    "text": "safety",
+    "value": 2
+  },
+  {
+    "text": "sada",
+    "value": 2
+  },
+  {
+    "text": "hacking",
+    "value": 2
+  },
+  {
+    "text": "databases",
+    "value": 1
+  },
+  {
+    "text": "regulation",
+    "value": 2
+  },
+  {
+    "text": "legislation",
+    "value": 2
+  },
+  {
+    "text": "economy",
+    "value": 1
+  },
+  {
+    "text": "policy",
+    "value": 1
+  },
+  {
+    "text": "planning",
+    "value": 3
+  },
+  {
+    "text": "market",
+    "value": 2
+  },
+  {
+    "text": "operation",
+    "value": 2
+  },
+  {
+    "text": "territory",
+    "value": 2
+  },
+  {
+    "text": "space",
+    "value": 2
+  },
+  {
+    "text": "environment",
+    "value": 2
+  },
+  {
+    "text": "alternate",
+    "value": 2
+  },
+  {
+    "text": "sources",
+    "value": 4
+  },
+  {
+    "text": "cogeneration",
+    "value": 2
+  },
+  {
+    "text": "conventional",
+    "value": 2
+  },
+  {
+    "text": "storage",
+    "value": 2
+  },
+  {
+    "text": "optimization",
+    "value": 2
+  },
+  {
+    "text": "control",
+    "value": 2
+  },
+  {
+    "text": "analytical",
+    "value": 1
+  },
+  {
+    "text": "boards",
+    "value": 1
+  },
+  {
+    "text": "sensors",
+    "value": 1
+  },
+  {
+    "text": "actuators",
+    "value": 1
+  },
+  {
+    "text": "instruments",
+    "value": 1
+  },
+  {
+    "text": "predictive",
+    "value": 1
+  },
+  {
+    "text": "life",
+    "value": 1
+  },
+  {
+    "text": "cycle",
+    "value": 1
+  },
+  {
+    "text": "story",
+    "value": 1
+  },
+  {
+    "text": "telling",
+    "value": 1
+  },
+  {
+    "text": "probability",
+    "value": 1
+  },
+  {
+    "text": "multivariate",
+    "value": 1
+  },
+  {
+    "text": "regression",
+    "value": 1
+  },
+  {
+    "text": "probabilistic",
+    "value": 1
+  },
+  {
+    "text": "sampling",
+    "value": 2
+  },
+  {
+    "text": "bioestadistics",
+    "value": 1
+  },
+  {
+    "text": "research",
+    "value": 3
+  },
+  {
+    "text": "deepening",
+    "value": 3
+  },
+  {
+    "text": "level",
+    "value": 3
+  },
+  {
+    "text": "work",
+    "value": 3
+  },
+  {
+    "text": "univary",
+    "value": 1
+  },
+  {
+    "text": "linear",
+    "value": 2
+  },
+  {
+    "text": "nonlinear",
+    "value": 1
+  },
+  {
+    "text": "probabilities",
+    "value": 1
+  },
+  {
+    "text": "experiment",
+    "value": 1
+  },
+  {
+    "text": "response",
+    "value": 1
+  },
+  {
+    "text": "surface",
+    "value": 1
+  },
+  {
+    "text": "generalized",
+    "value": 1
+  },
+  {
+    "text": "multivariable",
+    "value": 1
+  },
+  {
+    "text": "quality",
+    "value": 1
+  },
+  {
+    "text": "six",
+    "value": 1
+  },
+  {
+    "text": "sigma",
+    "value": 1
+  },
+  {
+    "text": "education",
+    "value": 1
+  },
+  {
+    "text": "mediated",
+    "value": 1
+  },
+  {
+    "text": "industrial",
+    "value": 1
+  },
+  {
+    "text": "teaching",
+    "value": 1
+  },
+  {
+    "text": "mathematics",
+    "value": 1
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "topic": 0,
+    "keywords": [
+      "systems",
+      "computer",
+      "introduction",
+      "compsci",
+      "advanced",
+      "internet",
+      "graphics",
+      "things",
+      "intelligent",
+      "engineering"
+    ]
+  },
+  {
+    "topic": 1,
+    "keywords": [
+      "architecture",
+      "business",
+      "computing",
+      "quantum",
+      "software",
+      "autonomous",
+      "speech",
+      "performance",
+      "systems",
+      "digital"
+    ]
+  },
+  {
+    "topic": 2,
+    "keywords": [
+      "programming",
+      "data",
+      "engineering",
+      "cloud",
+      "reinforcement",
+      "learning",
+      "mining",
+      "solutions",
+      "development",
+      "application"
+    ]
+  },
+  {
+    "topic": 3,
+    "keywords": [
+      "software",
+      "analysis",
+      "data",
+      "intelligence",
+      "artificial",
+      "engineering",
+      "systems",
+      "algorithms",
+      "processing",
+      "language"
+    ]
+  },
+  {
+    "topic": 4,
+    "keywords": [
+      "learning",
+      "machine",
+      "thesis",
+      "deep",
+      "architectures",
+      "development",
+      "applications",
+      "analysis",
+      "embedded",
+      "processing"
+    ]
+  },
+  {
+    "topic": 5,
+    "keywords": [
+      "computing",
+      "technology",
+      "theory",
+      "data",
+      "knowledge",
+      "tesis",
+      "applications",
+      "information",
+      "networks",
+      "big"
+    ]
+  },
+  {
+    "topic": 6,
+    "keywords": [
+      "research",
+      "project",
+      "ai",
+      "visualization",
+      "principles",
+      "final",
+      "internship",
+      "seminar",
+      "vision",
+      "data"
+    ]
+  },
+  {
+    "topic": 7,
+    "keywords": [
+      "science",
+      "data",
+      "comp",
+      "msc",
+      "project",
+      "topics",
+      "applied",
+      "entrepreneurship",
+      "web",
+      "fundamentals"
+    ]
+  },
+  {
+    "topic": 8,
+    "keywords": [
+      "design",
+      "management",
+      "information",
+      "project",
+      "cryptography",
+      "robotics",
+      "database",
+      "modern",
+      "interaction",
+      "applications"
+    ]
+  },
+  {
+    "topic": 9,
+    "keywords": [
+      "security",
+      "computer",
+      "computational",
+      "architecture",
+      "science",
+      "master",
+      "network",
+      "information",
+      "engineering",
+      "foundations"
+    ]
+  }
+]
